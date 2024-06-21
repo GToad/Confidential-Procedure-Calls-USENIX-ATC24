@@ -6,6 +6,12 @@ Confidential virtual machines (CVMs), while providing strong data privacy for cl
 
 In this paper, we introduce Confidential Procedure Calls (CPCs), a flexible approach to the efficient and secure execution of CVM maintenance modules from within the guest. We have implemented prototypes on two leading CVM platforms. Our prototype on AMD SEV showcases the high performance of CPCs, with 3× (resource reclamation) or even 138× (live migration) faster than existing approaches. Our prototype on ARM CCA further confirms CPCs' outstanding security and flexibility.
 
+## Poster
+
+<picture>
+    <img alt="Poster of CPC." src="./CPC-Poster-PNG.png 3x">
+</picture>
+
 ## Conference
 
 This research has been accepted by USENIX ATC'24 and ChinaSys'24.
