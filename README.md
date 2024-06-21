@@ -9,7 +9,7 @@ In this paper, we introduce Confidential Procedure Calls (CPCs), a flexible appr
 ## Poster
 
 <picture>
-    <img alt="Poster of CPC." src="./CPC-Poster-PNG.png 3x">
+    <img alt="" src="./CPC-Poster-JPG.jpg">
 </picture>
 
 ## Conference
