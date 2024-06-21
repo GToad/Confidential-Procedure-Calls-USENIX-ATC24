@@ -14,4 +14,20 @@ In this paper, we introduce Confidential Procedure Calls (CPCs), a flexible appr
 
 ## Conference
 
-This research has been accepted by USENIX ATC'24 and ChinaSys'24.
+This research has been accepted by ![USENIX ATC'24](https://www.usenix.org/conference/atc24) and ![ChinaSys'24](http://www.cnsys24-spring.org.cn/).
+
+You can find the talk in Chinese at ![CPC-ChinaSys'24](https://1300723556.vod2.myqcloud.com/f30c0e09vodsh1300723556/649494c61253642698744227405/XlFUvAWb1AgA.mp4).
+
+The talk in English will be available soon at ![CPC-ATC'24](https://www.usenix.org/conference/atc24/presentation/chen-jiahao).
+
+## Contact Us
+
+Email: chenjiahaosys@gmail.com
+
+## Cite
+
+If you find this work helpful for your publication, please cite CPC's ATC'24 paper:
+
+```
+Not yet publicly available, see details at ![technical sessions of USENIX ATC'24](https://www.usenix.org/conference/atc24/technical-sessions).
+```
