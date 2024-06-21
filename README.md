@@ -14,6 +14,8 @@ In this paper, we introduce Confidential Procedure Calls (CPCs), a flexible appr
 
 You can also download the [PDF](./CPC-Poster-with-Timeline.pdf) file. I also add a paper timeline for OSDI/ATC'24.
 
+![](./paper-timeline.png)
+
 ## Conference
 
 This research has been accepted by [USENIX ATC'24](https://www.usenix.org/conference/atc24) and [ChinaSys'24](http://www.cnsys24-spring.org.cn/).
