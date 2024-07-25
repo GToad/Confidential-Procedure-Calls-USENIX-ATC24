@@ -33,7 +33,7 @@ Email: chenjiahaosys@gmail.com
 If you find this work helpful for your publication, please cite CPC's ATC'24 paper:
 
 ```
-@inproceedings {298617,
+@inproceedings {chen2024cpc,
 author = {Jiahao Chen and Zeyu Mi and Yubin Xia and Haibing Guan and Haibo Chen},
 title = {{CPC}: Flexible, Secure, and Efficient {CVM} Maintenance with Confidential Procedure Calls},
 booktitle = {2024 USENIX Annual Technical Conference (USENIX ATC 24)},
